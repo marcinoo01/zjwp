@@ -3,7 +3,7 @@ import streamlit as st
 from api.weather_processing import fetch_weather_data, retrieve_weather_instance
 from api.weather_streamlit_processor import process_weather_data
 from api.weather_streamlit_util import init, add_to_session, \
-    extend_weather_data, import_weather_data
+    extend_weather_data, import_weather_data, load_input
 from api.util import compose, validate_uploaded_file
 from api.weather_util import map_weather, load_weather_data
 
@@ -26,11 +26,12 @@ process_weather = compose(
     load_weather_data
 )
 
-location, date = init()
+init()
+location = load_input()
 
 if st.button("Load Data"):
     try:
-        process_weather(location, date)
+        process_weather(location)
     except Exception as e:
         st.error(f"Error: {e}")
 

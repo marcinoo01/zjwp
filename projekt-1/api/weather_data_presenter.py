@@ -21,6 +21,16 @@ def display_weather_statistics(stats, st):
     st.write(f"- **Average Feels-like Temperature**: {stats.avg_feels_like:.2f}°C")
     st.write(f"- **Maximum Temperature**: {stats.max_temp}°C ({stats.hottest_location} on {stats.hottest_date})")
     st.write(f"- **Minimum Temperature**: {stats.min_temp}°C ({stats.coldest_location} on {stats.coldest_date})")
+    st.write(f"- **Average Humidity**: {stats.avg_humidity:.2f}%")
+    st.write(f"- **Maximum Humidity**: {stats.max_humidity:.2f}%")
+    st.write(f"- **Minimum Humidity**: {stats.min_humidity:.2f}%")
+    st.write(f"- **Average Wind Speed**: {stats.avg_wind_speed:.2f} km/h")
+    st.write(f"- **Maximum Wind Speed**: {stats.max_wind_speed:.2f} km/h")
+    st.write(f"- **Minimum Wind Speed**: {stats.min_wind_speed:.2f} km/h")
+    st.write(f"- **Temperature Variance**: {stats.temp_variance:.2f}")
+    st.write(f"- **Temperature Standard Deviation**: {stats.temp_std_dev:.2f}")
+    st.write(f"- **Median Temperature**: {stats.median_temp:.2f}°C")
+    st.write(f"- **Record Count**: {stats.record_count}")
 
 def display_wind_over_temp(st, df_filtered):
     avg_wind_speed = df_filtered[WeatherFields.WIND_SPEED].mean()

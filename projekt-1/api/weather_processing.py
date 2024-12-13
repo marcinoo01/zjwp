@@ -3,7 +3,7 @@ from .weather import Weather
 
 ACCESS_KEY = '2807dd46a03cd781db63334d28378b2a'
 
-def fetch_weather_data(location, historical_date):
+def fetch_weather_data(location):
     """
         sends rq to external weather api
     :param location:
@@ -11,7 +11,7 @@ def fetch_weather_data(location, historical_date):
         json string which contains weather data
     """
 
-    url = f"https://api.weatherstack.com/current?access_key={ACCESS_KEY}&query={location}&historical_date={historical_date}"
+    url = f"https://api.weatherstack.com/current?access_key={ACCESS_KEY}&query={location}"
     response = requests.get(url)
 
     if response.status_code != 200:

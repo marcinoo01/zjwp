@@ -10,13 +10,10 @@ class WeatherDataProcessor:
         self.df = df
         self._stats = None
 
+
     def calculate_statistics(self):
-        """
-        Calculates various weather statistics and stores them as attributes.
-        """
         self._stats = type('WeatherStats', (object,), {})()
 
-        # Average values
         self._stats.avg_temp = self.df[WeatherFields.TEMPERATURE].mean()
         self._stats.avg_feels_like = self.df[WeatherFields.FEELS_LIKE].mean()
 
@@ -29,6 +26,21 @@ class WeatherDataProcessor:
         self._stats.min_temp = min_temp_row[WeatherFields.TEMPERATURE]
         self._stats.coldest_location = min_temp_row[WeatherFields.LOCATION]
         self._stats.coldest_date = min_temp_row[WeatherFields.LOCALTIME]
+
+        self._stats.avg_humidity = self.df[WeatherFields.HUMIDITY].mean()
+        self._stats.max_humidity = self.df[WeatherFields.HUMIDITY].max()
+        self._stats.min_humidity = self.df[WeatherFields.HUMIDITY].min()
+
+        self._stats.avg_wind_speed = self.df[WeatherFields.WIND_SPEED].mean()
+        self._stats.max_wind_speed = self.df[WeatherFields.WIND_SPEED].max()
+        self._stats.min_wind_speed = self.df[WeatherFields.WIND_SPEED].min()
+
+        self._stats.temp_variance = self.df[WeatherFields.TEMPERATURE].var()
+        self._stats.temp_std_dev = self.df[WeatherFields.TEMPERATURE].std()
+
+        self._stats.median_temp = self.df[WeatherFields.TEMPERATURE].median()
+
+        self._stats.record_count = len(self.df)
 
         return self._stats
 

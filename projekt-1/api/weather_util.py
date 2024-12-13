@@ -11,6 +11,7 @@ def map_weather(weather):
         WeatherFields.FEELS_LIKE: weather.feels_like,
         WeatherFields.HUMIDITY: weather.humidity,
         WeatherFields.LOCALTIME: weather.localtime.strip(),
+        WeatherFields.WIND_SPEED: weather.wind_speed,
     }
 
 def import_from_file_to_list(uploaded_file, data):
@@ -29,8 +30,8 @@ def validate_uploaded_file(file):
         raise ValueError("No file uploaded")
     return file
 
-def load_weather_data(location, date_input):
+def load_weather_data(location):
     if not location.strip():
         raise ValueError("Location cannot be empty")
-    return location, date_input
+    return location
 

@@ -33,6 +33,7 @@ def filter_by_location(df_filtered_temp, selected_location):
 def apply_wind_vs_time_data(df):
     st.subheader("Temperature over Time")
     df[WeatherFields.LOCALTIME] = pd.to_datetime(df[WeatherFields.LOCALTIME])
+
     start_date, end_date = add_date_range_slider(df, "Select Date Range for Temperature Over Time:")
     df_filtered = df[(df[WeatherFields.LOCALTIME] >= start_date) & (df[WeatherFields.LOCALTIME] <= end_date)]
 
