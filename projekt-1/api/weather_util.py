@@ -24,3 +24,13 @@ def import_from_file_to_list(uploaded_file, data):
         )
     )
 
+def validate_uploaded_file(file):
+    if not file:
+        raise ValueError("No file uploaded")
+    return file
+
+def load_weather_data(location, date_input):
+    if not location.strip():
+        raise ValueError("Location cannot be empty")
+    return location, date_input
+

@@ -1,0 +1,251 @@
+location,region,country,temperature,feelslike,humidity,localtime,wind_speed
+New York,New York,United States of America,13.6,15.7,89,2024-12-01 16:00,16.9
+New York,New York,United States of America,14.6,16.3,49,2024-12-01 18:00,23.4
+New York,New York,United States of America,-8.0,-9.1,74,2024-12-01 09:00,22.9
+New York,New York,United States of America,-5.2,-3.0,99,2024-12-01 18:00,5.7
+New York,New York,United States of America,-5.0,-6.3,60,2024-12-01 18:00,22.3
+Los Angeles,California,United States of America,29.3,30.0,42,2024-12-01 21:00,15.5
+Los Angeles,California,United States of America,34.5,37.5,50,2024-12-01 08:00,29.3
+Los Angeles,California,United States of America,-9.3,-10.1,63,2024-12-01 16:00,3.7
+Los Angeles,California,United States of America,19.3,20.6,80,2024-12-01 20:00,10.4
+Los Angeles,California,United States of America,-6.6,-7.0,42,2024-12-01 05:00,4.7
+Chicago,Illinois,United States of America,14.5,17.2,39,2024-12-01 16:00,26.0
+Chicago,Illinois,United States of America,32.8,34.6,39,2024-12-01 02:00,22.9
+Chicago,Illinois,United States of America,-4.5,-2.0,71,2024-12-01 06:00,1.5
+Chicago,Illinois,United States of America,33.9,33.6,83,2024-12-01 16:00,4.9
+Chicago,Illinois,United States of America,-5.8,-8.3,41,2024-12-01 04:00,29.3
+Houston,Texas,United States of America,7.4,4.7,76,2024-12-01 00:00,5.5
+Houston,Texas,United States of America,28.6,30.1,28,2024-12-01 13:00,18.0
+Houston,Texas,United States of America,18.7,21.1,25,2024-12-01 00:00,5.3
+Houston,Texas,United States of America,-7.3,-6.2,55,2024-12-01 07:00,2.3
+Houston,Texas,United States of America,33.5,33.0,47,2024-12-01 03:00,12.4
+San Francisco,California,United States of America,14.3,14.0,95,2024-12-01 20:00,14.1
+San Francisco,California,United States of America,7.0,8.6,25,2024-12-01 04:00,16.7
+San Francisco,California,United States of America,4.6,2.2,40,2024-12-01 09:00,25.4
+San Francisco,California,United States of America,32.1,32.6,75,2024-12-01 09:00,1.1
+San Francisco,California,United States of America,33.7,31.2,99,2024-12-01 22:00,19.6
+New York,New York,United States of America,-1.9,-1.7,85,2024-12-02 23:00,28.5
+New York,New York,United States of America,-4.1,-1.7,34,2024-12-02 14:00,18.9
+New York,New York,United States of America,22.0,24.8,100,2024-12-02 17:00,19.3
+New York,New York,United States of America,6.9,8.5,37,2024-12-02 05:00,1.5
+New York,New York,United States of America,10.7,13.6,66,2024-12-02 18:00,25.8
+Los Angeles,California,United States of America,27.6,29.2,66,2024-12-02 08:00,28.7
+Los Angeles,California,United States of America,-4.7,-4.7,48,2024-12-02 15:00,9.2
+Los Angeles,California,United States of America,6.1,3.4,86,2024-12-02 06:00,16.6
+Los Angeles,California,United States of America,-2.7,-4.1,67,2024-12-02 02:00,11.9
+Los Angeles,California,United States of America,13.5,10.9,75,2024-12-02 23:00,28.4
+Chicago,Illinois,United States of America,20.6,20.0,34,2024-12-02 21:00,8.8
+Chicago,Illinois,United States of America,-6.1,-6.6,59,2024-12-02 17:00,1.1
+Chicago,Illinois,United States of America,15.9,15.8,85,2024-12-02 22:00,16.7
+Chicago,Illinois,United States of America,21.5,19.3,81,2024-12-02 03:00,14.9
+Chicago,Illinois,United States of America,15.6,16.5,91,2024-12-02 22:00,17.5
+Houston,Texas,United States of America,20.0,20.5,47,2024-12-02 21:00,11.1
+Houston,Texas,United States of America,-9.7,-7.1,100,2024-12-02 03:00,22.7
+Houston,Texas,United States of America,34.8,35.1,81,2024-12-02 22:00,15.0
+Houston,Texas,United States of America,28.2,27.7,35,2024-12-02 03:00,10.4
+Houston,Texas,United States of America,26.9,28.7,55,2024-12-02 22:00,8.7
+San Francisco,California,United States of America,-4.6,-7.6,52,2024-12-02 06:00,15.2
+San Francisco,California,United States of America,24.5,26.4,55,2024-12-02 09:00,15.2
+San Francisco,California,United States of America,-5.6,-7.8,58,2024-12-02 10:00,4.6
+San Francisco,California,United States of America,24.0,26.2,32,2024-12-02 06:00,6.9
+San Francisco,California,United States of America,13.6,15.2,59,2024-12-02 18:00,11.1
+New York,New York,United States of America,21.6,24.5,79,2024-12-03 12:00,19.5
+New York,New York,United States of America,15.7,17.7,95,2024-12-03 21:00,4.6
+New York,New York,United States of America,21.2,20.6,34,2024-12-03 15:00,3.5
+New York,New York,United States of America,16.1,16.9,39,2024-12-03 09:00,22.4
+New York,New York,United States of America,15.6,17.9,62,2024-12-03 02:00,27.6
+Los Angeles,California,United States of America,35.0,32.9,100,2024-12-03 18:00,15.4
+Los Angeles,California,United States of America,25.1,24.2,32,2024-12-03 05:00,23.1
+Los Angeles,California,United States of America,11.3,13.6,73,2024-12-03 14:00,27.9
+Los Angeles,California,United States of America,11.8,13.2,27,2024-12-03 11:00,13.1
+Los Angeles,California,United States of America,25.4,26.9,32,2024-12-03 17:00,16.8
+Chicago,Illinois,United States of America,12.2,14.6,58,2024-12-03 22:00,23.9
+Chicago,Illinois,United States of America,-6.5,-5.7,64,2024-12-03 13:00,11.9
+Chicago,Illinois,United States of America,31.7,29.5,45,2024-12-03 12:00,28.0
+Chicago,Illinois,United States of America,11.3,14.2,85,2024-12-03 12:00,10.2
+Chicago,Illinois,United States of America,-4.4,-3.2,72,2024-12-03 17:00,3.9
+Houston,Texas,United States of America,19.1,17.6,51,2024-12-03 07:00,1.0
+Houston,Texas,United States of America,25.5,23.9,50,2024-12-03 14:00,16.0
+Houston,Texas,United States of America,0.8,3.7,66,2024-12-03 12:00,11.8
+Houston,Texas,United States of America,23.6,23.9,26,2024-12-03 07:00,17.7
+Houston,Texas,United States of America,-1.5,-2.8,29,2024-12-03 07:00,25.4
+San Francisco,California,United States of America,34.5,36.8,58,2024-12-03 19:00,9.3
+San Francisco,California,United States of America,-1.8,-1.5,49,2024-12-03 15:00,17.7
+San Francisco,California,United States of America,-1.2,0.7,69,2024-12-03 22:00,2.7
+San Francisco,California,United States of America,4.5,6.3,37,2024-12-03 05:00,18.9
+San Francisco,California,United States of America,33.1,31.5,87,2024-12-03 19:00,17.0
+New York,New York,United States of America,8.7,5.9,99,2024-12-04 17:00,4.9
+New York,New York,United States of America,4.7,7.1,81,2024-12-04 23:00,24.5
+New York,New York,United States of America,-8.1,-8.1,22,2024-12-04 16:00,21.0
+New York,New York,United States of America,30.0,29.5,25,2024-12-04 04:00,24.3
+New York,New York,United States of America,27.2,29.1,97,2024-12-04 17:00,19.2
+Los Angeles,California,United States of America,6.6,5.0,84,2024-12-04 13:00,25.1
+Los Angeles,California,United States of America,10.3,10.4,56,2024-12-04 21:00,26.2
+Los Angeles,California,United States of America,-8.2,-9.2,89,2024-12-04 03:00,17.6
+Los Angeles,California,United States of America,22.4,20.6,73,2024-12-04 20:00,18.4
+Los Angeles,California,United States of America,9.8,12.6,79,2024-12-04 23:00,11.8
+Chicago,Illinois,United States of America,1.6,2.4,57,2024-12-04 01:00,3.2
+Chicago,Illinois,United States of America,25.9,27.0,58,2024-12-04 03:00,5.7
+Chicago,Illinois,United States of America,-5.5,-7.4,91,2024-12-04 08:00,15.6
+Chicago,Illinois,United States of America,11.1,12.1,100,2024-12-04 12:00,18.8
+Chicago,Illinois,United States of America,-0.8,-0.1,75,2024-12-04 20:00,16.6
+Houston,Texas,United States of America,18.3,16.2,54,2024-12-04 19:00,18.4
+Houston,Texas,United States of America,12.0,11.4,45,2024-12-04 01:00,27.9
+Houston,Texas,United States of America,31.5,30.0,82,2024-12-04 05:00,16.1
+Houston,Texas,United States of America,14.0,12.6,54,2024-12-04 22:00,16.7
+Houston,Texas,United States of America,-3.7,-6.3,76,2024-12-04 19:00,14.2
+San Francisco,California,United States of America,16.1,13.9,63,2024-12-04 00:00,25.2
+San Francisco,California,United States of America,29.2,31.0,94,2024-12-04 01:00,19.2
+San Francisco,California,United States of America,31.6,33.5,52,2024-12-04 13:00,27.3
+San Francisco,California,United States of America,-8.2,-5.6,21,2024-12-04 20:00,21.2
+San Francisco,California,United States of America,9.1,7.6,49,2024-12-04 15:00,4.8
+New York,New York,United States of America,-7.3,-5.9,100,2024-12-05 02:00,27.0
+New York,New York,United States of America,8.5,6.2,74,2024-12-05 23:00,18.0
+New York,New York,United States of America,23.5,21.9,93,2024-12-05 19:00,17.1
+New York,New York,United States of America,27.1,27.7,34,2024-12-05 20:00,1.6
+New York,New York,United States of America,18.1,16.3,40,2024-12-05 01:00,11.6
+Los Angeles,California,United States of America,9.9,12.4,30,2024-12-05 18:00,28.9
+Los Angeles,California,United States of America,-7.2,-8.0,46,2024-12-05 02:00,27.1
+Los Angeles,California,United States of America,22.4,24.7,64,2024-12-05 20:00,6.0
+Los Angeles,California,United States of America,3.2,2.8,79,2024-12-05 00:00,21.7
+Los Angeles,California,United States of America,7.9,6.2,66,2024-12-05 09:00,10.4
+Chicago,Illinois,United States of America,20.0,19.6,71,2024-12-05 01:00,8.8
+Chicago,Illinois,United States of America,12.6,9.8,34,2024-12-05 19:00,9.2
+Chicago,Illinois,United States of America,14.0,13.5,26,2024-12-05 02:00,5.9
+Chicago,Illinois,United States of America,20.9,21.2,89,2024-12-05 02:00,8.4
+Chicago,Illinois,United States of America,24.1,25.4,75,2024-12-05 21:00,9.3
+Houston,Texas,United States of America,17.0,18.1,92,2024-12-05 01:00,7.9
+Houston,Texas,United States of America,19.4,16.8,96,2024-12-05 16:00,21.3
+Houston,Texas,United States of America,15.8,18.7,67,2024-12-05 04:00,4.7
+Houston,Texas,United States of America,1.0,-0.5,65,2024-12-05 13:00,4.3
+Houston,Texas,United States of America,3.9,5.4,99,2024-12-05 14:00,23.3
+San Francisco,California,United States of America,32.2,32.5,47,2024-12-05 06:00,16.4
+San Francisco,California,United States of America,11.8,13.7,30,2024-12-05 11:00,29.9
+San Francisco,California,United States of America,-1.1,-2.6,27,2024-12-05 15:00,15.6
+San Francisco,California,United States of America,-1.4,-3.5,97,2024-12-05 18:00,11.9
+San Francisco,California,United States of America,30.5,29.6,91,2024-12-05 15:00,12.9
+New York,New York,United States of America,-8.8,-8.0,24,2024-12-06 03:00,18.4
+New York,New York,United States of America,1.4,1.9,25,2024-12-06 01:00,16.7
+New York,New York,United States of America,-0.5,-1.5,35,2024-12-06 12:00,23.1
+New York,New York,United States of America,32.0,32.0,36,2024-12-06 14:00,28.2
+New York,New York,United States of America,-5.3,-2.5,62,2024-12-06 04:00,1.4
+Los Angeles,California,United States of America,5.6,6.8,44,2024-12-06 16:00,13.5
+Los Angeles,California,United States of America,27.2,25.5,25,2024-12-06 13:00,21.2
+Los Angeles,California,United States of America,24.8,27.0,37,2024-12-06 13:00,19.8
+Los Angeles,California,United States of America,11.0,11.1,85,2024-12-06 10:00,2.2
+Los Angeles,California,United States of America,-0.3,2.5,27,2024-12-06 01:00,21.8
+Chicago,Illinois,United States of America,21.6,19.4,38,2024-12-06 11:00,5.8
+Chicago,Illinois,United States of America,15.7,17.1,56,2024-12-06 21:00,23.5
+Chicago,Illinois,United States of America,6.0,4.5,37,2024-12-06 20:00,27.9
+Chicago,Illinois,United States of America,-4.4,-6.5,38,2024-12-06 00:00,29.4
+Chicago,Illinois,United States of America,14.7,12.4,31,2024-12-06 03:00,9.7
+Houston,Texas,United States of America,-2.6,-5.3,50,2024-12-06 03:00,18.6
+Houston,Texas,United States of America,23.1,23.6,41,2024-12-06 18:00,14.2
+Houston,Texas,United States of America,30.8,31.0,46,2024-12-06 08:00,5.0
+Houston,Texas,United States of America,-1.8,-0.5,78,2024-12-06 00:00,7.7
+Houston,Texas,United States of America,32.2,30.4,93,2024-12-06 06:00,3.3
+San Francisco,California,United States of America,16.3,19.2,66,2024-12-06 06:00,27.6
+San Francisco,California,United States of America,21.2,22.4,32,2024-12-06 21:00,1.2
+San Francisco,California,United States of America,32.5,34.4,27,2024-12-06 02:00,18.5
+San Francisco,California,United States of America,18.5,18.3,30,2024-12-06 04:00,2.0
+San Francisco,California,United States of America,12.4,9.7,48,2024-12-06 10:00,22.2
+New York,New York,United States of America,17.1,18.8,69,2024-12-07 07:00,13.0
+New York,New York,United States of America,-4.9,-2.2,73,2024-12-07 09:00,17.3
+New York,New York,United States of America,-1.6,-1.3,90,2024-12-07 23:00,22.9
+New York,New York,United States of America,26.6,23.7,94,2024-12-07 18:00,12.7
+New York,New York,United States of America,7.7,5.8,72,2024-12-07 13:00,3.9
+Los Angeles,California,United States of America,13.7,15.9,73,2024-12-07 05:00,25.3
+Los Angeles,California,United States of America,11.3,11.8,90,2024-12-07 09:00,11.0
+Los Angeles,California,United States of America,28.6,28.6,88,2024-12-07 01:00,25.1
+Los Angeles,California,United States of America,21.5,22.5,81,2024-12-07 01:00,1.2
+Los Angeles,California,United States of America,27.5,26.7,47,2024-12-07 21:00,1.1
+Chicago,Illinois,United States of America,-7.8,-6.8,85,2024-12-07 16:00,17.1
+Chicago,Illinois,United States of America,19.3,16.9,100,2024-12-07 21:00,29.7
+Chicago,Illinois,United States of America,2.4,0.6,82,2024-12-07 23:00,25.8
+Chicago,Illinois,United States of America,16.9,19.2,35,2024-12-07 04:00,28.3
+Chicago,Illinois,United States of America,7.2,10.0,27,2024-12-07 23:00,17.6
+Houston,Texas,United States of America,-0.3,0.5,50,2024-12-07 17:00,29.0
+Houston,Texas,United States of America,20.2,21.8,73,2024-12-07 02:00,13.8
+Houston,Texas,United States of America,5.6,8.0,52,2024-12-07 12:00,2.1
+Houston,Texas,United States of America,10.5,9.4,50,2024-12-07 22:00,1.9
+Houston,Texas,United States of America,-1.0,-1.9,37,2024-12-07 16:00,19.8
+San Francisco,California,United States of America,15.1,13.2,100,2024-12-07 13:00,17.9
+San Francisco,California,United States of America,16.8,16.4,38,2024-12-07 00:00,2.7
+San Francisco,California,United States of America,-6.0,-3.8,80,2024-12-07 16:00,6.6
+San Francisco,California,United States of America,0.2,1.8,87,2024-12-07 21:00,15.1
+San Francisco,California,United States of America,26.1,25.8,45,2024-12-07 17:00,3.5
+New York,New York,United States of America,17.7,17.7,76,2024-12-08 10:00,17.0
+New York,New York,United States of America,27.9,29.5,42,2024-12-08 07:00,21.5
+New York,New York,United States of America,-8.0,-9.8,26,2024-12-08 00:00,13.0
+New York,New York,United States of America,5.2,5.6,46,2024-12-08 03:00,14.2
+New York,New York,United States of America,29.1,31.2,71,2024-12-08 03:00,23.0
+Los Angeles,California,United States of America,29.7,28.2,37,2024-12-08 23:00,18.9
+Los Angeles,California,United States of America,3.4,5.3,37,2024-12-08 21:00,13.9
+Los Angeles,California,United States of America,30.7,32.4,73,2024-12-08 13:00,2.8
+Los Angeles,California,United States of America,25.6,28.0,69,2024-12-08 15:00,21.8
+Los Angeles,California,United States of America,22.0,22.0,83,2024-12-08 20:00,2.7
+Chicago,Illinois,United States of America,18.9,18.7,71,2024-12-08 21:00,20.1
+Chicago,Illinois,United States of America,8.4,6.7,26,2024-12-08 22:00,6.3
+Chicago,Illinois,United States of America,3.5,6.2,22,2024-12-08 00:00,12.6
+Chicago,Illinois,United States of America,10.6,9.1,22,2024-12-08 04:00,15.7
+Chicago,Illinois,United States of America,23.4,25.5,76,2024-12-08 08:00,13.8
+Houston,Texas,United States of America,0.7,-1.9,85,2024-12-08 04:00,11.5
+Houston,Texas,United States of America,-8.4,-10.0,78,2024-12-08 03:00,4.3
+Houston,Texas,United States of America,11.3,8.9,99,2024-12-08 22:00,9.7
+Houston,Texas,United States of America,9.1,6.9,30,2024-12-08 22:00,18.1
+Houston,Texas,United States of America,7.5,6.2,99,2024-12-08 13:00,29.2
+San Francisco,California,United States of America,11.1,11.5,29,2024-12-08 16:00,19.8
+San Francisco,California,United States of America,22.6,20.8,66,2024-12-08 04:00,28.4
+San Francisco,California,United States of America,22.4,20.1,76,2024-12-08 00:00,26.9
+San Francisco,California,United States of America,-4.5,-3.7,97,2024-12-08 09:00,4.4
+San Francisco,California,United States of America,-6.1,-7.3,94,2024-12-08 05:00,16.9
+New York,New York,United States of America,9.4,7.5,54,2024-12-09 17:00,2.2
+New York,New York,United States of America,6.8,7.3,40,2024-12-09 23:00,16.8
+New York,New York,United States of America,28.0,25.4,68,2024-12-09 18:00,13.7
+New York,New York,United States of America,-3.3,-4.5,54,2024-12-09 23:00,18.8
+New York,New York,United States of America,22.4,19.7,77,2024-12-09 15:00,11.0
+Los Angeles,California,United States of America,17.8,20.3,94,2024-12-09 18:00,13.6
+Los Angeles,California,United States of America,-4.9,-3.3,87,2024-12-09 04:00,7.0
+Los Angeles,California,United States of America,27.3,27.3,40,2024-12-09 05:00,5.6
+Los Angeles,California,United States of America,23.9,22.7,91,2024-12-09 04:00,21.7
+Los Angeles,California,United States of America,2.6,1.3,84,2024-12-09 22:00,1.2
+Chicago,Illinois,United States of America,15.8,17.5,20,2024-12-09 09:00,16.8
+Chicago,Illinois,United States of America,4.0,5.3,100,2024-12-09 14:00,2.5
+Chicago,Illinois,United States of America,-6.4,-6.2,44,2024-12-09 20:00,22.8
+Chicago,Illinois,United States of America,-1.6,0.1,62,2024-12-09 18:00,2.6
+Chicago,Illinois,United States of America,5.4,5.7,91,2024-12-09 09:00,26.9
+Houston,Texas,United States of America,32.5,29.9,70,2024-12-09 12:00,27.4
+Houston,Texas,United States of America,-2.1,-3.5,33,2024-12-09 04:00,1.4
+Houston,Texas,United States of America,7.9,8.5,25,2024-12-09 15:00,6.8
+Houston,Texas,United States of America,-7.6,-8.1,72,2024-12-09 04:00,9.5
+Houston,Texas,United States of America,23.2,25.4,97,2024-12-09 00:00,29.1
+San Francisco,California,United States of America,0.3,0.4,86,2024-12-09 10:00,6.2
+San Francisco,California,United States of America,26.8,28.1,36,2024-12-09 08:00,14.0
+San Francisco,California,United States of America,23.4,21.4,20,2024-12-09 21:00,20.7
+San Francisco,California,United States of America,19.9,18.5,52,2024-12-09 23:00,6.7
+San Francisco,California,United States of America,24.6,22.9,67,2024-12-09 16:00,18.3
+New York,New York,United States of America,20.3,22.8,79,2024-12-10 07:00,22.5
+New York,New York,United States of America,31.2,29.6,40,2024-12-10 02:00,14.1
+New York,New York,United States of America,31.9,29.0,95,2024-12-10 08:00,6.7
+New York,New York,United States of America,3.9,3.4,33,2024-12-10 05:00,23.4
+New York,New York,United States of America,8.1,9.1,53,2024-12-10 15:00,3.6
+Los Angeles,California,United States of America,33.3,34.5,43,2024-12-10 06:00,16.0
+Los Angeles,California,United States of America,19.5,22.5,59,2024-12-10 13:00,11.3
+Los Angeles,California,United States of America,-9.2,-8.5,26,2024-12-10 06:00,26.0
+Los Angeles,California,United States of America,14.4,17.0,87,2024-12-10 12:00,6.1
+Los Angeles,California,United States of America,29.1,29.7,38,2024-12-10 12:00,5.9
+Chicago,Illinois,United States of America,-9.7,-7.8,70,2024-12-10 09:00,26.5
+Chicago,Illinois,United States of America,18.5,15.5,46,2024-12-10 08:00,4.4
+Chicago,Illinois,United States of America,24.5,23.9,67,2024-12-10 18:00,19.1
+Chicago,Illinois,United States of America,22.7,22.3,24,2024-12-10 19:00,7.3
+Chicago,Illinois,United States of America,2.7,2.4,81,2024-12-10 15:00,20.5
+Houston,Texas,United States of America,15.7,14.6,50,2024-12-10 09:00,23.9
+Houston,Texas,United States of America,7.9,6.8,56,2024-12-10 01:00,24.7
+Houston,Texas,United States of America,29.4,27.8,53,2024-12-10 21:00,5.9
+Houston,Texas,United States of America,10.1,8.4,100,2024-12-10 03:00,19.6
+Houston,Texas,United States of America,32.6,32.3,24,2024-12-10 20:00,18.8
+San Francisco,California,United States of America,28.4,25.5,78,2024-12-10 05:00,26.7
+San Francisco,California,United States of America,30.5,32.2,86,2024-12-10 10:00,1.0
+San Francisco,California,United States of America,0.4,-1.8,88,2024-12-10 07:00,3.8
+San Francisco,California,United States of America,7.5,8.6,53,2024-12-10 21:00,1.7
+San Francisco,California,United States of America,-4.4,-5.4,26,2024-12-10 19:00,26.9

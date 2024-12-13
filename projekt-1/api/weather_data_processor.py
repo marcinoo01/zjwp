@@ -1,10 +1,11 @@
 import pandas as pd
+from .weather_streamlit_util import WEATHER_DATA
 
 from .weather_enum import WeatherFields
 
 class WeatherDataProcessor:
     def __init__(self, st):
-        df = pd.DataFrame(st.session_state["weather_data"])
+        df = pd.DataFrame(st.session_state[WEATHER_DATA])
         df.index += 1
         self.df = df
         self._stats = None
